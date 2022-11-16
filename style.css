@@ -82,3 +82,58 @@ img .logo{
     align-items: center;
     justify-content: center;
 }
+.simple{
+    display: flex;
+    justify-content: center;
+
+}
+.simple_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.simple_text h1{
+    width: 60%;
+    font-size: 43px;
+}
+.simple_text h3{
+    width: 60%;
+    font-size: 12px;
+}
+.simple_text p{
+    width: 60%;
+    font-size: 15px;
+    color: grey;
+}
+.into{
+    display: flex;
+    color: grey;
+    font-size: 15px;
+    justify-content: center;
+    margin-top: 68px;
+}
+.creat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:30px;
+ 
+}
+.creat_text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.creat_text h1{
+    width: 60%;
+    font-size: 43px;
+}
+.creat_text h3{
+    width: 60%;
+    font-size: 18px;
+}
+.creat_text p{
+    width: 60%;
+    font-size: 12px;
+}
