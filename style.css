@@ -47,3 +47,38 @@ img .logo{
     height: 37px;
     width:132px ;
 }
+.header_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 43px;
+    margin-top: 130px;
+}
+.header_1 h1{
+    width: 70%;
+    text-align: center;
+    font-weight: 400;
+}
+.turn_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 48px;
+    font-size: 20px;
+   
+
+}
+.turn_button button{
+    display: flex;
+    background: greenyellow;
+    border-radius: 25px;
+    width: 100px;
+    border: none;
+    margin-left: 40px;
+}
+.people{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
